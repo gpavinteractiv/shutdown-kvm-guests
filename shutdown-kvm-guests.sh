@@ -13,7 +13,7 @@
 
 # Configure timeout (in seconds).
 TIMEOUT=300
-VIRSH=/usr/bin/virsh
+VIRSH=/bin/virsh
 
 # List running domains.
 list_running_domains() {
